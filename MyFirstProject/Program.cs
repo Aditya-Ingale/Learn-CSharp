@@ -11,7 +11,7 @@ namespace Modulus
         static void Main(string[] args)
         {
             int firstNum = 10;
-            int secondNum = 3;
+            int secondNum = 2;
 
             Console.WriteLine(firstNum % secondNum);
 
