@@ -13,7 +13,11 @@ namespace Modulus
             int firstNum = 10;
             int secondNum = 2;
 
+            int thirdNum = 33;
+            int fourthNum = 3;
+
             Console.WriteLine(firstNum % secondNum);
+            Console.WriteLine(thirdNum % fourthNum);
 
             Console.ReadLine();
         }
